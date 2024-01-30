@@ -7,5 +7,5 @@ Then next
 Choose the number indicating the movie we want to buy the ticket
 ## Purchase your tickets
 Type in the number of tickets that we want to purchase
-## Giev the buyer full name
+## Give the buyer full name
 Enter your name to confirm your purchase
